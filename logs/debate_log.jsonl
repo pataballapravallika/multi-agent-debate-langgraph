@@ -1,0 +1,26 @@
+{"time": "2025-12-28T16:38:00.500855", "node": "UserInputNode", "data": "Should AI be regulated like medicine?"}
+{"time": "2025-12-28T16:38:00.500855", "node": "AgentA", "data": "AI can impact public safety, so regulation is necessary."}
+{"time": "2025-12-28T16:38:00.502675", "node": "MemoryNode", "data": {"round": 1, "agent": "AgentA", "text": "AI can impact public safety, so regulation is necessary."}}
+{"time": "2025-12-28T16:38:00.502675", "node": "ControllerNode", "data": {"round": 2, "next_turn": "AgentB"}}
+{"time": "2025-12-28T16:38:00.502675", "node": "AgentB", "data": "Overregulation limits human creativity and freedom."}
+{"time": "2025-12-28T16:38:00.502675", "node": "MemoryNode", "data": {"round": 2, "agent": "AgentB", "text": "Overregulation limits human creativity and freedom."}}
+{"time": "2025-12-28T16:38:00.507713", "node": "ControllerNode", "data": {"round": 3, "next_turn": "AgentA"}}
+{"time": "2025-12-28T16:38:00.507713", "node": "AgentA", "data": "High-risk AI systems require strict oversight."}
+{"time": "2025-12-28T16:38:00.508447", "node": "MemoryNode", "data": {"round": 3, "agent": "AgentA", "text": "High-risk AI systems require strict oversight."}}
+{"time": "2025-12-28T16:38:00.509458", "node": "ControllerNode", "data": {"round": 4, "next_turn": "AgentB"}}
+{"time": "2025-12-28T16:38:00.509458", "node": "AgentB", "data": "Ethical reasoning should evolve without rigid constraints."}
+{"time": "2025-12-28T16:38:00.510465", "node": "MemoryNode", "data": {"round": 4, "agent": "AgentB", "text": "Ethical reasoning should evolve without rigid constraints."}}
+{"time": "2025-12-28T16:38:00.510465", "node": "ControllerNode", "data": {"round": 5, "next_turn": "AgentA"}}
+{"time": "2025-12-28T16:38:00.512190", "node": "AgentA", "data": "Scientific evidence shows unregulated AI can cause harm."}
+{"time": "2025-12-28T16:38:00.512190", "node": "MemoryNode", "data": {"round": 5, "agent": "AgentA", "text": "Scientific evidence shows unregulated AI can cause harm."}}
+{"time": "2025-12-28T16:38:00.513336", "node": "ControllerNode", "data": {"round": 6, "next_turn": "AgentB"}}
+{"time": "2025-12-28T16:38:00.514326", "node": "AgentB", "data": "Too much control may slow societal progress."}
+{"time": "2025-12-28T16:38:00.514326", "node": "MemoryNode", "data": {"round": 6, "agent": "AgentB", "text": "Too much control may slow societal progress."}}
+{"time": "2025-12-28T16:38:00.515660", "node": "ControllerNode", "data": {"round": 7, "next_turn": "AgentA"}}
+{"time": "2025-12-28T16:38:00.516134", "node": "AgentA", "data": "Medical-style regulation ensures accountability."}
+{"time": "2025-12-28T16:38:00.517754", "node": "MemoryNode", "data": {"round": 7, "agent": "AgentA", "text": "Medical-style regulation ensures accountability."}}
+{"time": "2025-12-28T16:38:00.517754", "node": "ControllerNode", "data": {"round": 8, "next_turn": "AgentB"}}
+{"time": "2025-12-28T16:38:00.517754", "node": "AgentB", "data": "History shows innovation thrives with fewer restrictions."}
+{"time": "2025-12-28T16:38:00.517754", "node": "MemoryNode", "data": {"round": 8, "agent": "AgentB", "text": "History shows innovation thrives with fewer restrictions."}}
+{"time": "2025-12-28T16:38:00.520952", "node": "ControllerNode", "data": {"round": 9, "next_turn": "AgentA"}}
+{"time": "2025-12-28T16:38:00.520952", "node": "JudgeNode", "data": {"summary": "8-round structured debate completed.", "winner": "AgentA", "reason": "Arguments were consistent and non-repetitive."}}
